@@ -1,0 +1,10 @@
+
+**Background/Idea**
+
+OpenMusE brings together music industry stakeholders and researchers from 11 EU countries and Ukraine. Our consortium recognises that placing European music ecosystems on a more competitive, fair, and sustainable footing requires evidence-based policymaking, business planning and accuracy. We provide the data needed for these actions.
+
+Using transparent methods and tools, OpenMusE maps the policy as well as the data landscape. The project bridges data gaps and empowers stakeholders and policymakers to take data-driven actions. Our project is grounded on principles of open policy analysis, open science, and open-source software development. We work with stakeholders to identify data gaps on the EU, national, and regional levels; co-create indicators and methods for bridging them; develop free software tools for data collection and analysis; and report our findings and every step taken to reach them.
+
+This is the logic behind our Open Music Observatory (OMO), an open-source platform that provides 360-degree intelligence on the music industry by integrating numerous data sources. The OMO is highly automated, providing “living policy documents” that refresh when the backend datasets are updated: these datasets include official statistics on music goods and services; data on musical participation via pan-European surveys, rights-holder data voluntarily shared by industry partners, and streaming service data sampled using novel algorithms developed by our consortium.
+
+Using the OMO and our open-source software, music MSMEs without technical departments or expertise will be able to access and analyse open data; model volume and value, including of zero-price uses; create better business models; and generate corporate social responsibility and sustainability reports; all at a fraction of current costs. We validate these tools in four pilot studies that will bring concrete benefits to stakeholders within the project lifespan.
